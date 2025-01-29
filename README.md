@@ -13,10 +13,10 @@ demonstrates a working python bubblesort
 contains methods for next letter cypher and reverse alphabet cypher
 
   - ### [CypherNextLetter.py](https://github.com/gbeyer4094/QuestionsAnsweredInPython/blob/master/src/python/CypherNextLetter.py)
-  accesses the next letter cypher method in cypher
+    accesses the next letter cypher method in cypher
 
   - ### [CypherReverse.py](https://github.com/gbeyer4094/QuestionsAnsweredInPython/blob/master/src/python/CypherReverse.py)
-  accesses the reverse cypher method in cypher
+    accesses the reverse cypher method in cypher
 
 ## [insertionsort.py](https://github.com/gbeyer4094/QuestionsAnsweredInPython/blob/master/src/python/insertionsort.py)
 demonstrates an insertion sort using python
