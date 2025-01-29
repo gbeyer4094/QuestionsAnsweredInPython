@@ -3,7 +3,7 @@
 Possible coding questions coded using python.
 This also gives me a chance to try out different coding technics
 
-## anagrams.py
+## [anagrams.py](https://github.com/gbeyer4094/QuestionsAnsweredInPython/blob/master/src/python/anagrams.py)
 has a method that returns a boolean if 2 strings are an anagram
 
 ## bubblesort.py
