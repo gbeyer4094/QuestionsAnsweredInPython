@@ -6,39 +6,39 @@ This also gives me a chance to try out different coding technics
 ## [anagrams.py](https://github.com/gbeyer4094/QuestionsAnsweredInPython/blob/master/src/python/anagrams.py)
 has a method that returns a boolean if 2 strings are an anagram
 
-## bubblesort.py
+## [bubblesort.py](https://github.com/gbeyer4094/QuestionsAnsweredInPython/blob/master/src/python/bubblesort.py)
 demonstrates a working python bubblesort
 
-## Cypher.py
+## [Cypher.py](https://github.com/gbeyer4094/QuestionsAnsweredInPython/blob/master/src/python/Cypher.py)
 contains methods for next letter cypher and reverse alphabet cypher
 
-### CypherNextLetter.py
+### [CypherNextLetter.py](https://github.com/gbeyer4094/QuestionsAnsweredInPython/blob/master/src/python/CypherNextLetter.py)
 accesses the next letter cypher method in cypher
 
-### CypherReverse.py
+### [CypherReverse.py](https://github.com/gbeyer4094/QuestionsAnsweredInPython/blob/master/src/python/CypherReverse.py)
 accesses the reverse cypher method in cypher
 
-## insertionsort.py
+## [insertionsort.py](https://github.com/gbeyer4094/QuestionsAnsweredInPython/blob/master/src/python/insertionsort.py)
 demonstrates an insertion sort using python
 
-## integerswap.py
+## [integerswap.py](https://github.com/gbeyer4094/QuestionsAnsweredInPython/blob/master/src/python/integerswap.py)
 shows how to swap integers using the same variables
 
-## matchingelements.py
+## [matchingelements.py](https://github.com/gbeyer4094/QuestionsAnsweredInPython/blob/master/src/python/matchingelements.py)
 returns a set of values that match between multiple sets
 
-## numberofoccurances.py
+## [numberofoccurances.py](https://github.com/gbeyer4094/QuestionsAnsweredInPython/blob/master/src/python/numberofoccurances.py)
 returns the number of occurances of a given character in a string of text
 
-## palindrome.py
+## [palindrome.py](https://github.com/gbeyer4094/QuestionsAnsweredInPython/blob/master/src/python/palindrome.py)
 returns (True/False) if a string is a palindrome
 
-## reversearray.py
+## [reversearray.py](https://github.com/gbeyer4094/QuestionsAnsweredInPython/blob/master/src/python/reversearray.py)
 returns the reverse of an array
 
-## reversestring.py
+## [reversestring.py](https://github.com/gbeyer4094/QuestionsAnsweredInPython/blob/master/src/python/reversestring.py)
 returns the reverse of a string
 
-## vowelvrsconstants.py
+## [vowelvrsconstants.py](https://github.com/gbeyer4094/QuestionsAnsweredInPython/blob/master/src/python/vowelvrsconstants.py)
 returns the number of vowels and constants in a string.
 
