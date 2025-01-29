@@ -39,6 +39,6 @@ returns the reverse of an array
 ## [reversestring.py](https://github.com/gbeyer4094/QuestionsAnsweredInPython/blob/master/src/python/reversestring.py)
 returns the reverse of a string
 
-## [vowelvrsconstants.py](https://github.com/gbeyer4094/QuestionsAnsweredInPython/blob/master/src/python/vowelvrsconstants.py)
+## [vowelvrsconsonant.py](https://github.com/gbeyer4094/QuestionsAnsweredInPython/blob/master/src/python/vowelvrsconsonant.py)
 returns the number of vowels and constants in a string.
 
