@@ -1,6 +1,5 @@
 import Cypher
 
-# Example usage:
 message = input('Enter message: ')
 words = message.split(' ')
 

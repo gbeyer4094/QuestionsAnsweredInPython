@@ -4,5 +4,5 @@ def reverse(string):
 
 # Example usage
 base = "Hello World!"
-reversed = reverse(base)
-print(reversed)
+reversed_text = reverse(base)
+print(reversed_text)

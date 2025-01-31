@@ -42,3 +42,10 @@ returns the reverse of a string
 ## [vowelvrsconsonant.py](https://github.com/gbeyer4094/QuestionsAnsweredInPython/blob/master/src/python/vowelvrsconsonant.py)
 returns the number of vowels and constants in a string.
 
+## websocket Experiment
+this is a pair of files that demonstrate client/server interaction with websockets
+
+   - ### [WebsocketClient.py](https://github.com/gbeyer4094/QuestionsAnsweredInPython/blob/master/src/python/WebsocketClient.py)
+        Execute from one terminal after WebsocketServer has been executed in a different terminal
+   - ### [WebsocketServer.py](https://github.com/gbeyer4094/QuestionsAnsweredInPython/blob/master/src/python/WebsocketServer.py)
+        Open a terminal and execute WebsocketServer first to open the websocket.  WebserverClient will interact with thewebserver 
