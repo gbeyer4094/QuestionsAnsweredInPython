@@ -1,4 +1,4 @@
-import Cypher
+import cypher
 
 message = input('Enter message: ')
 words = message.split(' ')
